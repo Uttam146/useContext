@@ -3,7 +3,7 @@ import './style.css';
 const Header = () => {
     return (
         <div>
-            <span className='header'>React Context API Tutorial</span>
+            <span className='header'>React Context</span>
             <ul className='nav'>
                 <li>
                     <Link to='/'>Home</Link>
